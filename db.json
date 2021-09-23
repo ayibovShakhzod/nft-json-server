@@ -70,6 +70,288 @@
         "id": 3567,
         "blockChain": "Concordium"
       }
+    },
+    {
+      "id": 3,
+      "hash": "#57830",
+      "price": 560.98,
+      "likes": 3790,
+      "liked": false,
+      "hightBid": "300",
+      "image": "/images/img3.png",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras integer ut eleifend pulvinar amet at orci viverra ornare. Hendrerit eu sed elit vel. Eget nulla adipiscing tellus at dis volutpat tortor. Adipiscing nibh consequat.",
+      "properties": [
+        { "title": "Skin", "text": "Bright Light" },
+        { "title": "Hair", "text": "Grey and silver" }
+      ],
+      "bids": [
+        { "id": 1, "bidAt": 36, "by": "Groot", "time": "09/04/21 4:35PM" },
+        { "id": 2, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" }
+      ],
+      "history": [
+        {
+          "id": 1,
+          "event": "Bid/Offer",
+          "price": 36,
+          "from": "@Groot",
+          "to": "Guh9...897",
+          "date": "09/04/21 4:35PM"
+        },
+        {
+          "id": 2,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "@Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        }
+      ],
+      "author": {
+        "id": "1",
+        "name": "Shahzod",
+        "username": "shaha",
+        "avatar": "",
+        "balance": 700.98
+      },
+      "tokenInfo": {
+        "id": 3567,
+        "blockChain": "Concordium"
+      }
+    },
+    {
+      "id": 4,
+      "hash": "#57830",
+      "price": 560.98,
+      "likes": 3790,
+      "liked": false,
+      "hightBid": "300",
+      "image": "/images/img1.png",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras integer ut eleifend pulvinar amet at orci viverra ornare. Hendrerit eu sed elit vel. Eget nulla adipiscing tellus at dis volutpat tortor. Adipiscing nibh consequat.",
+      "properties": [
+        { "title": "Skin", "text": "Bright Light" },
+        { "title": "Hair", "text": "Grey and silver" }
+      ],
+      "bids": [
+        { "id": 1, "bidAt": 36, "by": "Groot", "time": "09/04/21 4:35PM" },
+        { "id": 2, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" }
+      ],
+      "history": [
+        {
+          "id": 1,
+          "event": "Bid/Offer",
+          "price": 36,
+          "from": "@Groot",
+          "to": "Guh9...897",
+          "date": "09/04/21 4:35PM"
+        },
+        {
+          "id": 2,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "@Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        }
+      ],
+      "author": {
+        "id": "1",
+        "name": "Shahzod",
+        "username": "shaha",
+        "avatar": "",
+        "balance": 700.98
+      },
+      "tokenInfo": {
+        "id": 3567,
+        "blockChain": "Concordium"
+      }
+    },
+    {
+      "id": 5,
+      "hash": "#57830",
+      "price": 560.98,
+      "likes": 3790,
+      "liked": false,
+      "hightBid": "300",
+      "image": "/images/img3.png",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras integer ut eleifend pulvinar amet at orci viverra ornare. Hendrerit eu sed elit vel. Eget nulla adipiscing tellus at dis volutpat tortor. Adipiscing nibh consequat.",
+      "properties": [
+        { "title": "Skin", "text": "Bright Light" },
+        { "title": "Hair", "text": "Grey and silver" }
+      ],
+      "bids": [
+        { "id": 1, "bidAt": 36, "by": "Groot", "time": "09/04/21 4:35PM" },
+        { "id": 2, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" }
+      ],
+      "history": [
+        {
+          "id": 1,
+          "event": "Bid/Offer",
+          "price": 36,
+          "from": "@Groot",
+          "to": "Guh9...897",
+          "date": "09/04/21 4:35PM"
+        },
+        {
+          "id": 2,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "@Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        }
+      ],
+      "author": {
+        "id": "1",
+        "name": "Shahzod",
+        "username": "shaha",
+        "avatar": "",
+        "balance": 700.98
+      },
+      "tokenInfo": {
+        "id": 3567,
+        "blockChain": "Concordium"
+      }
+    },
+    {
+      "id": 6,
+      "hash": "#57830",
+      "price": 560.98,
+      "likes": 3790,
+      "liked": false,
+      "hightBid": "300",
+      "image": "/images/img1.png",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras integer ut eleifend pulvinar amet at orci viverra ornare. Hendrerit eu sed elit vel. Eget nulla adipiscing tellus at dis volutpat tortor. Adipiscing nibh consequat.",
+      "properties": [
+        { "title": "Skin", "text": "Bright Light" },
+        { "title": "Hair", "text": "Grey and silver" }
+      ],
+      "bids": [
+        { "id": 1, "bidAt": 36, "by": "Groot", "time": "09/04/21 4:35PM" },
+        { "id": 2, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" }
+      ],
+      "history": [
+        {
+          "id": 1,
+          "event": "Bid/Offer",
+          "price": 36,
+          "from": "@Groot",
+          "to": "Guh9...897",
+          "date": "09/04/21 4:35PM"
+        },
+        {
+          "id": 2,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "@Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        }
+      ],
+      "author": {
+        "id": "1",
+        "name": "Shahzod",
+        "username": "shaha",
+        "avatar": "",
+        "balance": 700.98
+      },
+      "tokenInfo": {
+        "id": 3567,
+        "blockChain": "Concordium"
+      }
+    },
+    {
+      "id": 7,
+      "hash": "#57830",
+      "price": 560.98,
+      "likes": 3790,
+      "liked": false,
+      "hightBid": "300",
+      "image": "/images/img2.png",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras integer ut eleifend pulvinar amet at orci viverra ornare. Hendrerit eu sed elit vel. Eget nulla adipiscing tellus at dis volutpat tortor. Adipiscing nibh consequat.",
+      "properties": [
+        { "title": "Skin", "text": "Bright Light" },
+        { "title": "Hair", "text": "Grey and silver" }
+      ],
+      "bids": [
+        { "id": 1, "bidAt": 36, "by": "Groot", "time": "09/04/21 4:35PM" },
+        { "id": 2, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" }
+      ],
+      "history": [
+        {
+          "id": 1,
+          "event": "Bid/Offer",
+          "price": 36,
+          "from": "@Groot",
+          "to": "Guh9...897",
+          "date": "09/04/21 4:35PM"
+        },
+        {
+          "id": 2,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "@Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        }
+      ],
+      "author": {
+        "id": "1",
+        "name": "Shahzod",
+        "username": "shaha",
+        "avatar": "",
+        "balance": 700.98
+      },
+      "tokenInfo": {
+        "id": 3567,
+        "blockChain": "Concordium"
+      }
+    },
+    {
+      "id": 8,
+      "hash": "#57830",
+      "price": 560.98,
+      "likes": 3790,
+      "liked": false,
+      "hightBid": "300",
+      "image": "/images/img3.png",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras integer ut eleifend pulvinar amet at orci viverra ornare. Hendrerit eu sed elit vel. Eget nulla adipiscing tellus at dis volutpat tortor. Adipiscing nibh consequat.",
+      "properties": [
+        { "title": "Skin", "text": "Bright Light" },
+        { "title": "Hair", "text": "Grey and silver" }
+      ],
+      "bids": [
+        { "id": 1, "bidAt": 36, "by": "Groot", "time": "09/04/21 4:35PM" },
+        { "id": 2, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" }
+      ],
+      "history": [
+        {
+          "id": 1,
+          "event": "Bid/Offer",
+          "price": 36,
+          "from": "@Groot",
+          "to": "Guh9...897",
+          "date": "09/04/21 4:35PM"
+        },
+        {
+          "id": 2,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "@Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        }
+      ],
+      "author": {
+        "id": "1",
+        "name": "Shahzod",
+        "username": "shaha",
+        "avatar": "",
+        "balance": 700.98
+      },
+      "tokenInfo": {
+        "id": 3567,
+        "blockChain": "Concordium"
+      }
     }
   ],
   "nftsInfo": {
@@ -120,7 +402,7 @@
   },
   "profile": [
     {
-      "id": 1,
+      "id": "1",
       "bgImage": "/bgProfile.svg",
       "avatar": "",
       "username": "shaha",
@@ -129,11 +411,12 @@
       "bio": "Bio bio bio bio",
       "createdAt": 1631513050,
       "wallet": {
+        "balance": "234",
         "address": "0x8F2074HLC.....F7RJF55F0"
       }
     },
     {
-      "id": 2,
+      "id": "2",
       "bgImage": "/bgProfile.svg",
       "avatar": "",
       "username": "sulton",
@@ -142,6 +425,7 @@
       "bio": "Bio bio bio bio",
       "createdAt": 1631513049,
       "wallet": {
+        "balance": "234",
         "address": "0x8F2074HSU.....FL3JF55F7"
       }
     }
