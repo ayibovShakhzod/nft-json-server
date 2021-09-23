@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ayibovShakhzod/nft-json-server/issues"
   },
-  "homepage": "https://github.com/ayibovShakhzod/nft-json-server#readme"
+  "homepage": "https://github.com/ayibovShakhzod/nft-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
