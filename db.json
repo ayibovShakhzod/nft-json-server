@@ -78,7 +78,7 @@
       "likes": 3790,
       "liked": false,
       "hightBid": "300",
-      "image": "/images/img3.png",
+      "image": "/images/img3.jpg",
       "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras integer ut eleifend pulvinar amet at orci viverra ornare. Hendrerit eu sed elit vel. Eget nulla adipiscing tellus at dis volutpat tortor. Adipiscing nibh consequat.",
       "properties": [
         { "title": "Skin", "text": "Bright Light" },
@@ -172,7 +172,7 @@
       "likes": 3790,
       "liked": false,
       "hightBid": "300",
-      "image": "/images/img3.png",
+      "image": "/images/img3.jpg",
       "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras integer ut eleifend pulvinar amet at orci viverra ornare. Hendrerit eu sed elit vel. Eget nulla adipiscing tellus at dis volutpat tortor. Adipiscing nibh consequat.",
       "properties": [
         { "title": "Skin", "text": "Bright Light" },
@@ -313,7 +313,7 @@
       "likes": 3790,
       "liked": false,
       "hightBid": "300",
-      "image": "/images/img3.png",
+      "image": "/images/img3.jpg",
       "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras integer ut eleifend pulvinar amet at orci viverra ornare. Hendrerit eu sed elit vel. Eget nulla adipiscing tellus at dis volutpat tortor. Adipiscing nibh consequat.",
       "properties": [
         { "title": "Skin", "text": "Bright Light" },
