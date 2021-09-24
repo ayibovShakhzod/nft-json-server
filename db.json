@@ -15,7 +15,12 @@
       ],
       "bids": [
         { "id": 1, "bidAt": 36, "by": "Groot", "time": "09/04/21 4:35PM" },
-        { "id": 2, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" }
+        { "id": 2, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" },
+        { "id": 3, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" },
+        { "id": 4, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" },
+        { "id": 5, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" },
+        { "id": 6, "bidAt": 48.46, "by": "Joha", "time": "09/04/21 4:35PM" },
+        { "id": 7, "bidAt": 53.46, "by": "Joha", "time": "09/04/21 4:35PM" }
       ],
       "history": [
         {
@@ -31,54 +36,6 @@
           "event": "Cancel Listing",
           "price": 32.45,
           "from": "Shaha",
-          "to": "8H33...8IU",
-          "date": "09/03/21 13:35PM"
-        },
-        {
-          "id": 3,
-          "event": "Cancel Listing",
-          "price": 32.45,
-          "from": "Joha",
-          "to": "8H33...8IU",
-          "date": "09/03/21 13:35PM"
-        },
-        {
-          "id": 4,
-          "event": "Cancel Listing",
-          "price": 32.45,
-          "from": "Joha",
-          "to": "8H33...8IU",
-          "date": "09/03/21 13:35PM"
-        },
-        {
-          "id": 5,
-          "event": "Cancel Listing",
-          "price": 32.45,
-          "from": "Joha",
-          "to": "8H33...8IU",
-          "date": "09/03/21 13:35PM"
-        },
-        {
-          "id": 6,
-          "event": "Cancel Listing",
-          "price": 32.45,
-          "from": "Joha",
-          "to": "8H33...8IU",
-          "date": "09/03/21 13:35PM"
-        },
-        {
-          "id": 7,
-          "event": "Cancel Listing",
-          "price": 32.45,
-          "from": "Joha",
-          "to": "8H33...8IU",
-          "date": "09/03/21 13:35PM"
-        },
-        {
-          "id": 8,
-          "event": "Cancel Listing",
-          "price": 32.45,
-          "from": "Joha",
           "to": "8H33...8IU",
           "date": "09/03/21 13:35PM"
         }
