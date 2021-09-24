@@ -22,7 +22,7 @@
           "id": 1,
           "event": "Bid/Offer",
           "price": 36,
-          "from": "@Groot",
+          "from": "Groot",
           "to": "Guh9...897",
           "date": "09/04/21 4:35PM"
         },
@@ -30,7 +30,55 @@
           "id": 2,
           "event": "Cancel Listing",
           "price": 32.45,
-          "from": "@Joha",
+          "from": "Shaha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        },
+        {
+          "id": 3,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        },
+        {
+          "id": 4,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        },
+        {
+          "id": 5,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        },
+        {
+          "id": 6,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        },
+        {
+          "id": 7,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "Joha",
+          "to": "8H33...8IU",
+          "date": "09/03/21 13:35PM"
+        },
+        {
+          "id": 8,
+          "event": "Cancel Listing",
+          "price": 32.45,
+          "from": "Joha",
           "to": "8H33...8IU",
           "date": "09/03/21 13:35PM"
         }
@@ -93,7 +141,7 @@
           "id": 1,
           "event": "Bid/Offer",
           "price": 36,
-          "from": "@Groot",
+          "from": "Groot",
           "to": "Guh9...897",
           "date": "09/04/21 4:35PM"
         },
@@ -101,7 +149,7 @@
           "id": 2,
           "event": "Cancel Listing",
           "price": 32.45,
-          "from": "@Joha",
+          "from": "Joha",
           "to": "8H33...8IU",
           "date": "09/03/21 13:35PM"
         }
@@ -140,7 +188,7 @@
           "id": 1,
           "event": "Bid/Offer",
           "price": 36,
-          "from": "@Groot",
+          "from": "Groot",
           "to": "Guh9...897",
           "date": "09/04/21 4:35PM"
         },
@@ -148,7 +196,7 @@
           "id": 2,
           "event": "Cancel Listing",
           "price": 32.45,
-          "from": "@Joha",
+          "from": "Joha",
           "to": "8H33...8IU",
           "date": "09/03/21 13:35PM"
         }
@@ -187,7 +235,7 @@
           "id": 1,
           "event": "Bid/Offer",
           "price": 36,
-          "from": "@Groot",
+          "from": "Groot",
           "to": "Guh9...897",
           "date": "09/04/21 4:35PM"
         },
@@ -195,7 +243,7 @@
           "id": 2,
           "event": "Cancel Listing",
           "price": 32.45,
-          "from": "@Joha",
+          "from": "Joha",
           "to": "8H33...8IU",
           "date": "09/03/21 13:35PM"
         }
@@ -234,7 +282,7 @@
           "id": 1,
           "event": "Bid/Offer",
           "price": 36,
-          "from": "@Groot",
+          "from": "Groot",
           "to": "Guh9...897",
           "date": "09/04/21 4:35PM"
         },
@@ -242,7 +290,7 @@
           "id": 2,
           "event": "Cancel Listing",
           "price": 32.45,
-          "from": "@Joha",
+          "from": "Joha",
           "to": "8H33...8IU",
           "date": "09/03/21 13:35PM"
         }
@@ -281,7 +329,7 @@
           "id": 1,
           "event": "Bid/Offer",
           "price": 36,
-          "from": "@Groot",
+          "from": "Groot",
           "to": "Guh9...897",
           "date": "09/04/21 4:35PM"
         },
@@ -289,7 +337,7 @@
           "id": 2,
           "event": "Cancel Listing",
           "price": 32.45,
-          "from": "@Joha",
+          "from": "Joha",
           "to": "8H33...8IU",
           "date": "09/03/21 13:35PM"
         }
@@ -328,7 +376,7 @@
           "id": 1,
           "event": "Bid/Offer",
           "price": 36,
-          "from": "@Groot",
+          "from": "Groot",
           "to": "Guh9...897",
           "date": "09/04/21 4:35PM"
         },
@@ -336,7 +384,7 @@
           "id": 2,
           "event": "Cancel Listing",
           "price": 32.45,
-          "from": "@Joha",
+          "from": "Joha",
           "to": "8H33...8IU",
           "date": "09/03/21 13:35PM"
         }
@@ -406,7 +454,7 @@
       "bgImage": "/bgProfile.svg",
       "avatar": "",
       "username": "shaha",
-      "email": "shaha@bictory.io",
+      "email": "shahabictory.io",
       "name": "Shahzod",
       "bio": "Bio bio bio bio",
       "createdAt": 1631513050,
@@ -420,7 +468,7 @@
       "bgImage": "/bgProfile.svg",
       "avatar": "",
       "username": "sulton",
-      "email": "sulton@bictory.io",
+      "email": "sultonbictory.io",
       "name": "Sultonbek",
       "bio": "Bio bio bio bio",
       "createdAt": 1631513049,
