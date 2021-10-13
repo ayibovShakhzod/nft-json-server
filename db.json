@@ -417,100 +417,45 @@
     {
       "id": 1,
       "name": "Terrestria",
-      "data": {
-        "Property": [
-          "property1",
-          "property2",
-          "property3",
-          "property4"
-        ],
-        "Quantity": [
-          "12",
-          "4",
-          "12",
-          "7"
-        ],
-        "NFTs": [
-          ["345","82","345","17","2617"],
-          ["345","82","345","17","2617","817","2617"],
-          ["345","82","817"]
-        ]
-      }
+      "data": [
+        {"Property": "property1", "Quantity": "12", "NFTs":  ["345","82","345","17","2617"]},
+        {"Property": "property2", "Quantity": "1", "NFTs":  ["345","345","17","2617"]},
+        {"Property": "property3", "Quantity": "2", "NFTs":  ["345","82","345","17","2617"]},
+        {"Property": "property4", "Quantity": "5", "NFTs":  ["345","82","2617"]}
+      ]
     },
     {
       "id": 2,
       "name": "GTUBits",
-      "data": {
-        "Property": [
-          "property1",
-          "property4"
-        ],
-        "Quantity": [
-          "12",
-          "7"
-        ],
-        "NFTs": [
-          ["345","82","345","17","2617","817","2617"],
-          ["345","82","817"]
-        ]
-      }
+      "data": [
+        {"Property": "property3", "Quantity": "2", "NFTs":  ["345","17","2617"]},
+        {"Property": "property4", "Quantity": "5", "NFTs":  ["345","82","2617"]}
+      ]
     },
     {
       "id": 3,
       "name": "Autobahn",
-      "data": {
-        "Property": [
-          "property4"
-        ],
-        "Quantity": [
-          "7"
-        ],
-        "NFTs": [
-          ["345","82","345","17","2617"]
-        ]
-      }
+      "data": [
+        {"Property": "property1", "Quantity": "12", "NFTs":  ["345","82","345","17","2617"]},
+        {"Property": "property4", "Quantity": "5", "NFTs":  ["345","82","2617"]}
+      ]
     },
     {
       "id": 4,
       "name": "Rust",
-      "data": {
-        "Property": [
-          "property1",
-          "property2",
-          "property3",
-          "property4"
-        ],
-        "Quantity": [
-          "12",
-          "4",
-          "12",
-          "7"
-        ],
-        "NFTs": [
-          ["345","82","345","17","2617"],
-          ["345","82","345","17","2617","817","2617"],
-          ["345","817"],
-          ["345","82","817"]
-        ]
-      }
+      "data": [
+        {"Property": "property2", "Quantity": "1", "NFTs":  ["345","345","17","2617"]},
+        {"Property": "property3", "Quantity": "2", "NFTs":  ["345","82","345","17","2617"]},
+        {"Property": "property4", "Quantity": "5", "NFTs":  ["345","82","2617"]}
+      ]
     },
     {
       "id": 5,
       "name": "Loot",
-      "data": {
-        "Property": [
-          "property1",
-          "property4"
-        ],
-        "Quantity": [
-          "12",
-          "4"
-        ],
-        "NFTs": [
-          ["345","82","345","17","2617"],
-          ["345","82","817"]
-        ]
-      }
+      "data": [
+        {"Property": "property1", "Quantity": "12", "NFTs":  ["345","82","345","17","2617"]},
+        {"Property": "property2", "Quantity": "1", "NFTs":  ["345","345","17","2617"]}
+      ]
     }
   ]
 }
