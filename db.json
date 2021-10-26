@@ -75,7 +75,8 @@
         "id": 3567,
         "blockChain": "Concordium"
       }
-    },{
+    },
+    {
       "id": 3,
       "hash": "#57830",
       "price": 560.98,
@@ -348,7 +349,6 @@
         "number": 123.2,
         "title": "Volume Traded"
       }
-      
     ]
   },
   "profile": [
@@ -418,44 +418,134 @@
       "id": 1,
       "name": "Terrestria",
       "data": [
-        {"Property": "property1", "Quantity": "12", "NFTs":  ["345","82","345","17","2617"]},
-        {"Property": "property2", "Quantity": "1", "NFTs":  ["345","345","17","2617"]},
-        {"Property": "property3", "Quantity": "2", "NFTs":  ["345","82","345","17","2617"]},
-        {"Property": "property4", "Quantity": "5", "NFTs":  ["345","82","2617"]}
+        {
+          "Property": "property1",
+          "Quantity": "12",
+          "NFTs": ["345", "82", "345", "17", "2617"]
+        },
+        {
+          "Property": "property2",
+          "Quantity": "1",
+          "NFTs": ["345", "345", "17", "2617"]
+        },
+        {
+          "Property": "property3",
+          "Quantity": "2",
+          "NFTs": ["345", "82", "345", "17", "2617"]
+        },
+        {
+          "Property": "property4",
+          "Quantity": "5",
+          "NFTs": ["345", "82", "2617"]
+        }
       ]
     },
     {
       "id": 2,
       "name": "GTUBits",
       "data": [
-        {"Property": "property3", "Quantity": "2", "NFTs":  ["345","17","2617"]},
-        {"Property": "property4", "Quantity": "5", "NFTs":  ["345","82","2617"]}
+        {
+          "Property": "property3",
+          "Quantity": "2",
+          "NFTs": ["345", "17", "2617"]
+        },
+        {
+          "Property": "property4",
+          "Quantity": "5",
+          "NFTs": ["345", "82", "2617"]
+        }
       ]
     },
     {
       "id": 3,
       "name": "Autobahn",
       "data": [
-        {"Property": "property1", "Quantity": "12", "NFTs":  ["345","82","345","17","2617"]},
-        {"Property": "property4", "Quantity": "5", "NFTs":  ["345","82","2617"]}
+        {
+          "Property": "property1",
+          "Quantity": "12",
+          "NFTs": ["345", "82", "345", "17", "2617"]
+        },
+        {
+          "Property": "property4",
+          "Quantity": "5",
+          "NFTs": ["345", "82", "2617"]
+        }
       ]
     },
     {
       "id": 4,
       "name": "Rust",
       "data": [
-        {"Property": "property2", "Quantity": "1", "NFTs":  ["345","345","17","2617"]},
-        {"Property": "property3", "Quantity": "2", "NFTs":  ["345","82","345","17","2617"]},
-        {"Property": "property4", "Quantity": "5", "NFTs":  ["345","82","2617"]}
+        {
+          "Property": "property2",
+          "Quantity": "1",
+          "NFTs": ["345", "345", "17", "2617"]
+        },
+        {
+          "Property": "property3",
+          "Quantity": "2",
+          "NFTs": ["345", "82", "345", "17", "2617"]
+        },
+        {
+          "Property": "property4",
+          "Quantity": "5",
+          "NFTs": ["345", "82", "2617"]
+        }
       ]
     },
     {
       "id": 5,
       "name": "Loot",
       "data": [
-        {"Property": "property1", "Quantity": "12", "NFTs":  ["345","82","345","17","2617"]},
-        {"Property": "property2", "Quantity": "1", "NFTs":  ["345","345","17","2617"]}
+        {
+          "Property": "property1",
+          "Quantity": "12",
+          "NFTs": ["345", "82", "345", "17", "2617"]
+        },
+        {
+          "Property": "property2",
+          "Quantity": "1",
+          "NFTs": ["345", "345", "17", "2617"]
+        }
       ]
+    }
+  ],
+  "offers": [
+    {
+      "id": 1,
+      "user": "1",
+      "image": "/images/img2.png",
+      "price": "0.00",
+      "offerFrom": "DXYI7495...87H",
+      "from": "heyimjoe",
+      "timestamp": "3 hours ago"
+    },
+    {
+      "id":2,
+      "user": "1",
+      "image": "/images/img2.png",
+      "price": "0.00",
+      "offerFrom": null,
+      "from": "heyimjoe",
+      "timestamp": "3 hours ago"
+    },
+    {
+      "id":3,
+      "user": "1",
+      "image": "/images/img2.png",
+      "price": "0.00",
+      "offerFrom": null,
+      "from": "heyimjoe",
+      "timestamp": "3 hours ago"
+    },
+    {
+      "id":4,
+      "user": "1",
+      "image": "/images/img2.png",
+      "price": "0.00",
+      "offerFrom": null,
+      "from": "heyimjoe",
+      "timestamp": "3 hours ago"
     }
   ]
 }
