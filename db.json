@@ -518,7 +518,8 @@
       "price": "0.00",
       "offerFrom": "DXYI7495...87H",
       "from": "heyimjoe",
-      "timestamp": "3 hours ago"
+      "timestamp": "3 hours ago",
+      "offerStatus": "Accept"
     },
     {
       "id":2,
@@ -527,7 +528,8 @@
       "price": "0.00",
       "offerFrom": null,
       "from": "heyimjoe",
-      "timestamp": "3 hours ago"
+      "timestamp": "3 hours ago",
+      "offerStatus": "Cancel"
     },
     {
       "id":3,
@@ -536,7 +538,8 @@
       "price": "0.00",
       "offerFrom": null,
       "from": "heyimjoe",
-      "timestamp": "3 hours ago"
+      "timestamp": "3 hours ago",
+      "offerStatus": "Cancel"
     },
     {
       "id":4,
@@ -545,7 +548,8 @@
       "price": "0.00",
       "offerFrom": null,
       "from": "heyimjoe",
-      "timestamp": "3 hours ago"
+      "timestamp": "3 hours ago",
+      "offerStatus": "Cancel"
     }
   ]
 }
