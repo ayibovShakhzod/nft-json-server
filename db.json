@@ -305,52 +305,28 @@
       }
     }
   ],
-  "nftsInfo": {
-    "1": [
-      {
-        "id": 1,
-        "number": 3258,
-        "title": "Items"
-      },
-      {
-        "id": 2,
-        "number": 7.68,
-        "title": "Items"
-      },
-      {
-        "id": 3,
-        "number": 12.7,
-        "title": "Owners"
-      },
-      {
-        "id": 4,
-        "number": 357.7,
-        "title": "Volume Traded"
-      }
-    ],
-    "2": [
-      {
-        "id": 1,
-        "number": 321,
-        "title": "Items"
-      },
-      {
-        "id": 2,
-        "number": "-",
-        "title": "Items"
-      },
-      {
-        "id": 3,
-        "number": 3.4,
-        "title": "Owners"
-      },
-      {
-        "id": 4,
-        "number": 123.2,
-        "title": "Volume Traded"
-      }
-    ]
-  },
+  "nftsInfo": [
+    {
+      "id": 1,
+      "number": 3258,
+      "title": "Items"
+    },
+    {
+      "id": 2,
+      "number": 7.68,
+      "title": "Items"
+    },
+    {
+      "id": 3,
+      "number": 12.7,
+      "title": "Owners"
+    },
+    {
+      "id": 4,
+      "number": 357.7,
+      "title": "Volume Traded"
+    }
+  ],
   "profile": [
     {
       "id": "1",
